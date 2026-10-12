@@ -1,0 +1,51 @@
+id,client_name,product_name,sale_value,sale_date
+1,Alice Johnson,Wireless Mouse,25.99,2025-01-05
+2,Bob Smith,Mechanical Keyboard,89.5,2025-01-12
+3,Carla Mendes,USB-C Charger,19.99,2025-01-15
+4,Daniel Lee,Webcam HD,49.9,2025-01-20
+5,Eva Carter,Laptop Stand,35.0,2025-01-25
+6,Frank Miller,USB Hub,15.0,2025-02-01
+7,Grace Kim,Wireless Mouse,24.99,2025-02-03
+8,Hugo Torres,Gaming Headset,59.99,2025-02-07
+9,Isabel Lopez,HDMI Cable,9.99,2025-02-10
+10,John Wick,"Monitor 24""",129.99,2025-02-14
+11,Karen Diaz,Wireless Keyboard,45.99,2025-02-18
+12,Liam Scott,External HDD 1TB,74.9,2025-02-21
+13,Maria Garcia,USB Flash Drive 32GB,10.99,2025-02-25
+14,Nathan Bell,Bluetooth Speaker,39.99,2025-03-01
+15,Olivia Stone,Smartphone Stand,12.0,2025-03-04
+16,Paul Green,Webcam HD,49.9,2025-03-07
+17,Quincy Adams,Wireless Mouse,22.99,2025-03-10
+18,Rachel Brown,Laptop Stand,36.5,2025-03-14
+19,Sam White,HDMI Cable,11.99,2025-03-18
+20,Tina Black,Mechanical Keyboard,88.0,2025-03-20
+21,Ursula May,USB-C Charger,20.99,2025-03-23
+22,Victor Grey,External HDD 1TB,72.0,2025-04-01
+23,Wendy Blue,Wireless Keyboard,46.5,2025-04-04
+24,Xander Reed,Gaming Headset,61.0,2025-04-08
+25,Yasmin Park,"Monitor 24""",130.0,2025-04-12
+26,Zach Cole,USB Hub,16.0,2025-04-15
+27,Alice Johnson,Laptop Stand,34.9,2025-04-18
+28,Bob Smith,Bluetooth Speaker,41.0,2025-04-22
+29,Carla Mendes,Smartphone Stand,11.5,2025-04-25
+30,Daniel Lee,USB Flash Drive 64GB,14.9,2025-04-28
+31,Eva Carter,Wireless Mouse,23.0,2025-05-01
+32,Frank Miller,Webcam HD,47.99,2025-05-04
+33,Grace Kim,USB Hub,15.5,2025-05-08
+34,Hugo Torres,HDMI Cable,10.0,2025-05-10
+35,Isabel Lopez,Gaming Headset,58.0,2025-05-14
+36,John Wick,External HDD 2TB,95.0,2025-05-18
+37,Karen Diaz,"Monitor 27""",179.0,2025-05-21
+38,Liam Scott,Mechanical Keyboard,90.0,2025-05-23
+39,Maria Garcia,USB Flash Drive 128GB,18.0,2025-05-26
+40,Nathan Bell,Bluetooth Speaker,37.0,2025-05-28
+41,Olivia Stone,Wireless Keyboard,47.5,2025-05-30
+42,Paul Green,Smartphone Stand,12.5,2025-06-01
+43,Quincy Adams,Wireless Mouse,26.0,2025-06-02
+44,Rachel Brown,USB-C Charger,21.0,2025-06-03
+45,Sam White,"Monitor 24""",128.0,2025-06-04
+46,Tina Black,Laptop Stand,33.0,2025-06-05
+47,Ursula May,USB Hub,14.0,2025-06-06
+48,Victor Grey,Gaming Headset,60.0,2025-06-07
+49,Wendy Blue,HDMI Cable,9.5,2025-06-08
+50,Zach Cole,USB Hub,16.0,2025-04-15
